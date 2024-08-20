@@ -7,23 +7,24 @@ This is a collection of research and review papers of multi-agent reinforcement 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact us.
 
 ## Overview
-* [Tutorial](https://github.com/LantaoYu/MARL-Papers#tutorial-and-books)
-* [Review Papers](https://github.com/LantaoYu/MARL-Papers#review-papers)
-* [Research Papers](https://github.com/LantaoYu/MARL-Papers#research-papers)
-  * [Framework](https://github.com/LantaoYu/MARL-Papers#framework)
-  * [Joint action learning](https://github.com/LantaoYu/MARL-Papers#joint-action-learning)
-  * [Cooperation and competition](https://github.com/LantaoYu/MARL-Papers#cooperation-and-competition)
-  * [Coordination](https://github.com/LantaoYu/MARL-Papers#coordination)
-  * [Security](https://github.com/LantaoYu/MARL-Papers#security)
-  * [Self-Play](https://github.com/LantaoYu/MARL-Papers#self-play)
-  * [Learning To Communicate](https://github.com/LantaoYu/MARL-Papers#learning-to-communicate)
-  * [Transfer Learning](https://github.com/LantaoYu/MARL-Papers#transfer-learning)
-  * [Imitation and Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#imitation-and-inverse-reinforcement-learning)
-  * [Meta Learning](https://github.com/LantaoYu/MARL-Papers#meta-learning)
-  * [Application](https://github.com/LantaoYu/MARL-Papers#application)
-  * [Networked MARL (Decentralized Training Decentralized Execution)](https://github.com/LantaoYu/MARL-Papers#networked-MARL)
-  * [MARL in LLMs (MARL in Large Language Models)](https://github.com/LantaoYu/MARL-Papers#framework)
-  * [MARL in Robotics (MARL in Robotics)](https://github.com/LantaoYu/MARL-Papers#framework)
+* [Tutorial](https://github.com/VictoriousGladiator/MARL-Papers#tutorial-and-books)
+* [Talks](https://github.com/VictoriousGladiator/MARL-Papers#talks)
+* [Review Papers](https://github.com/VictoriousGladiator/MARL-Papers#review-papers)
+* [Research Papers](https://github.com/VictoriousGladiator/MARL-Papers#research-papers)
+  * [Framework](https://github.com/VictoriousGladiator/MARL-Papers#framework)
+  * [Joint action learning](https://github.com/VictoriousGladiator/MARL-Papers#joint-action-learning)
+  * [Cooperation and competition](https://github.com/VictoriousGladiator/MARL-Papers#cooperation-and-competition)
+  * [Coordination](https://github.com/VictoriousGladiator/MARL-Papers#coordination)
+  * [Security](https://github.com/VictoriousGladiator/MARL-Papers#security)
+  * [Self-Play](https://github.com/VictoriousGladiator/MARL-Papers#self-play)
+  * [Learning To Communicate](https://github.com/VictoriousGladiator/MARL-Papers#learning-to-communicate)
+  * [Transfer Learning](https://github.com/VictoriousGladiator/MARL-Papers#transfer-learning)
+  * [Imitation and Inverse Reinforcement Learning](https://github.com/VictoriousGladiator/MARL-Papers#imitation-and-inverse-reinforcement-learning)
+  * [Meta Learning](https://github.com/VictoriousGladiator/MARL-Papers#meta-learning)
+  * [Application](https://github.com/VictoriousGladiator/MARL-Papers#application)
+  * [Networked MARL (Decentralized Training Decentralized Execution)](https://github.com/VictoriousGladiator/MARL-Papers#networked-MARL)
+  * [MARL in LLMs (MARL in Large Language Models)](https://github.com/VictoriousGladiator/MARL-Papers#framework)
+  * [MARL in Robotics (MARL in Robotics)](https://github.com/VictoriousGladiator/MARL-Papers#framework)
   
 
 ## Tutorial and Books
@@ -33,6 +34,9 @@ The sharing principle of these references here is for research. If any authors d
 * [Multi-Agent Machine Learning: A Reinforcement Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118884614) by H. M. Schwartz, 2014.
 * [Multiagent Reinforcement Learning](http://www.ecmlpkdd2013.org/wp-content/uploads/2013/09/Multiagent-Reinforcement-Learning.pdf) by Daan Bloembergen, Daniel Hennes, Michael Kaisers, Peter Vrancx. ECML, 2013.
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html) by Shoham Y, Leyton-Brown K. Cambridge University Press, 2008.
+
+## Talks
+* [Multiagent Reinforcement Learning Deepmind](https://rlss.inria.fr/files/2019/07/RLSS_Multiagent.pdf) Marc Lanctot, RLSS @ Lille, 2019
 
 ## Review Papers
 * [An overview of multi-agent reinforcement learning from game theoretical perspective](https://arxiv.org/pdf/2011.00583.pdf) by Yaodong Yang and Jun Wang. 2020.
@@ -119,6 +123,9 @@ The sharing principle of these references here is for research. If any authors d
 * [Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games](https://arxiv.org/pdf/2106.01969.pdf) by Leonardos, Stefanos, Will Overman, Ioannis Panageas, and Georgios Piliouras. 2021
 * [Markov α-Potential Games: Equilibrium Approximation and Regret Analysis](https://arxiv.org/pdf/2305.12553.pdf) by Xin G, et al, 2023
 * [A Natural Actor-Critic Framework for Zero-Sum Markov Games](https://proceedings.mlr.press/v162/alacaoglu22a/alacaoglu22a.pdf) Ahmet A. et al, ICML, 2022
+* [On the Use and Misuse of Absorbing States in Multi-agent Reinforcement Learning](https://arxiv.org/pdf/2111.05992) Cohen A. et al, arXiv, 2022
+* [Dealing with Non-Stationarity in Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1906.04737)  Papoudakis G. et al, arXiv, 2019
+
 
 ### Coordination
 * [Collaborating with Humans without Human Data](https://openreview.net/pdf?id=1Kof-nkmQB8) by DJ Strouse, Kevin R. McKee, Matt Botvinick, Edward Hughes, Richard Everett. NeurIPS 2021.
